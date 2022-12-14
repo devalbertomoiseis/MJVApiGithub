@@ -38,7 +38,7 @@ export const TopArea = ({ setUser }: TopAreaProps) => {
     setNotFound(false);
 
     /* https://pt-br.reactjs.org/docs/render-props.html#gatsby-focus-wrapper */
-    
+
     const user: UserProps = {
       pfp: data.avatar_url,
       name: data.name,
@@ -101,8 +101,8 @@ export const TopArea = ({ setUser }: TopAreaProps) => {
           type="text"
           placeholder="Search username ..."
         />
-        {empty && <Warn>Enter User</Warn>}
-        {notFound && <Warn>Not Found</Warn>}
+        {empty && <Warn>Digite um Usuário</Warn>}
+        {notFound && <Warn>Usuário não encontrado</Warn>}
 
         <SubmitBtn type="submit">Search</SubmitBtn>
       </InputArea>
