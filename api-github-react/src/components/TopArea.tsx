@@ -12,6 +12,8 @@ export const TopArea = ({ setUser }: TopAreaProps) => {
   const [inputUser] = useState("devalbertomoiseis");
 
   function hadleSubmit() {
+    /* remover espaços em branco ou undefined.
+     https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/String/trim */
     if (
       usernameRef.current?.value.trim() === "" ||
       usernameRef.current?.value === undefined
@@ -24,7 +26,7 @@ export const TopArea = ({ setUser }: TopAreaProps) => {
     setEmpty(false);
     fetchUser(usernameRef.current.value);
   }
-
+  /* Consumir api github. */
   async function fetchUser(username: string) {
     const response = await fetch(`https://api.github.com/users/${username}`);
     const data = await response.json();
