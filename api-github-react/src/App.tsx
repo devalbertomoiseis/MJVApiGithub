@@ -6,6 +6,7 @@ import { ThemeContextProvider } from "./contexts/ThemeContext";
 import { UserProps } from "./types";
 
 function App() {
+  /* https://pt-br.reactjs.org/docs/hooks-reference.html#usestate */
   const [user, setUser] = useState<UserProps | null>(null);
 
   function setUserData(user: UserProps | null): void {
