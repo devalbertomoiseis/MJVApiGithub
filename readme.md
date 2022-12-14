@@ -1,3 +1,10 @@
+<div style="width:100%;">
+
+
+![mjv](https://user-images.githubusercontent.com/107158442/207599674-a8d8897b-7238-491f-83f4-1c75506f06ef.jpg)
+
+</div>
+
 <h1> MJVFINDER - Consumindo API GITHUB - Frontend Mentor</h1>
 
 > Status do Projeto: :heavy_check_mark: :warning: (Em Desenvolvimento.)
@@ -17,15 +24,16 @@
 
 <p>Tela Dark</p><br>
 
-![D](https://user-images.githubusercontent.com/107158442/207494425-052a1a68-4844-47bb-b1ef-3f3a2770221b.png)
+![D](https://user-images.githubusercontent.com/107158442/207597879-4be02d27-f2d9-4b9a-9d46-3f6f44c5042a.png)
 
 <p>Tela Light</p><br>
 
-![l](https://user-images.githubusercontent.com/107158442/207494502-cdaa8f51-80dc-410e-bd10-93d762b917dd.png)
+![l](https://user-images.githubusercontent.com/107158442/207597972-19fae7d0-5fe3-4e27-af0c-34c32bd2caca.png)
 
 <p>Tela para Desenvolvimento Etapa Final.</p><br>
 
-![DesenvolverFuturamente](https://user-images.githubusercontent.com/107158442/207494580-e40e8776-4cc2-4213-b448-0331d55f20cc.png)
+![DesenvolverFuturamente](https://user-images.githubusercontent.com/107158442/207598090-313b09cd-624d-407d-b1e9-bb2ef03b3ad4.png)
+
 
 
 
