@@ -24,11 +24,11 @@
 
 <p>Tela Dark</p><br>
 
-![D](https://user-images.githubusercontent.com/107158442/207597879-4be02d27-f2d9-4b9a-9d46-3f6f44c5042a.png)
+![D](https://user-images.githubusercontent.com/107158442/207632651-6608a1b4-4972-4d25-925f-1418284efd34.png)
 
 <p>Tela Light</p><br>
 
-![l](https://user-images.githubusercontent.com/107158442/207597972-19fae7d0-5fe3-4e27-af0c-34c32bd2caca.png)
+![l](https://user-images.githubusercontent.com/107158442/207632507-81360c75-acf6-43f7-bed0-fdad5ddc5de5.png)
 
 <p>Tela para Desenvolvimento Etapa Final.</p><br>
 
