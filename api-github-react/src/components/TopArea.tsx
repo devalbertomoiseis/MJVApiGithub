@@ -101,7 +101,7 @@ export const TopArea = ({ setUser }: TopAreaProps) => {
           type="text"
           placeholder="Search username ..."
         />
-        {empty && <Warn>Digite um Usuário</Warn>}
+        {empty && <Warn>Digite o nome do usuário</Warn>}
         {notFound && <Warn>Usuário não encontrado</Warn>}
 
         <SubmitBtn type="submit">Search</SubmitBtn>
